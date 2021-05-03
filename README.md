@@ -14,7 +14,7 @@ The hard difficulty level makes use of minimax to guess the best outcome from al
 
 ### Installation
 ```
-clone https://github.com/nogtek/Tic-Tac-Toe-with-AI.git
+git clone https://github.com/nogtek/Tic-Tac-Toe-with-AI.git
 cd Tic-Tac-Toe-with-AI\build\libs
 java -jar Tic-Tac-Toe_with_AI-1.0-SNAPSHOT.jar
 ```
